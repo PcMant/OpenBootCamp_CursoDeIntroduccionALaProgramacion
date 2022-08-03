@@ -1,3 +1,8 @@
+/*
+- Crear la clase persona.
+- Crear variables las privadas edad, nombre y teléfono de la clase persona.
+- Crear gets y sets de cada propiedad.
+*/
 public class Persona {
 
     public void setEdad(byte edad) {

@@ -1,3 +1,8 @@
+/*
+- Crear un objeto persona en el main.
+- Utiliza gets y sets para darle valores a las propiedades edad, nombre
+y teléfono, por último muéstralas por consola.
+*/
 public class Main {
     public static void main(String[] args) {
         Persona persona1 = new Persona();
