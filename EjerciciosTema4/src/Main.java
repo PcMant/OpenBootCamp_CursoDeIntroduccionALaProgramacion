@@ -95,6 +95,13 @@ public class Main {
         System.out.println();
 
         // SWITCH
+        /*
+        - Por último, para el Switch, deberá crear la variable estación, y distintos
+        case para que las cuatro estaciones del año. Dependiendo del valor de la
+        variable se deberá mandar un mensaje por consola informando de la estación
+        en la que está. También habrá que poner un default para cuando el valor de
+        la variable no sea una estación.
+        */
         String estacion = "verano";
 
         switch (estacion){
